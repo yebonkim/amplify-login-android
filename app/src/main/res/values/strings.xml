@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">amplify-login-android</string>
+    <string name="login_success">로그인 성공🎉</string>
+</resources>
